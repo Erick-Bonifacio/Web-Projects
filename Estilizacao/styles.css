@@ -1,0 +1,22 @@
+.result{
+    border: solid 1px black;
+    border-radius: 10%;
+    margin: 0 auto;
+}
+
+button{
+    color: gray;
+    border-radius: 10%;
+    font-size: 15px;
+}
+.div-result{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.div-button{
+   padding: 0 auto;
+   text-align: center;
+}

@@ -1,0 +1,59 @@
+.secao-login{
+    border: 1px solid black;
+    border-radius: 1em;
+    width: 40%;
+    text-align: center;
+    margin: 0 auto;
+}
+
+body{
+    margin: 0;
+    background-color: rgb(173, 186, 213);
+}
+
+#p-login{
+    text-align: left;
+    margin-left: 2%;
+    text-decoration: underline;
+}
+
+h1{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+
+a{
+    text-decoration: none;
+}
+
+li{
+    display: inline-block;
+    margin: 5px;
+}
+
+ul{
+    padding: 0;
+    text-align: center;
+    background-color: black;
+    margin: 0;
+}
+
+li > a{
+    color: white;
+}
+
+button{
+    width: 30%;
+    border-radius: 1em;
+}
+
+input{
+    display: block;
+    margin: 3% auto;
+    border-radius: 1em;
+    width: 50%;
+}
+
+label{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
