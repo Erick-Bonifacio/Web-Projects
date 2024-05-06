@@ -1,0 +1,49 @@
+h1{
+    text-align: center;
+}
+
+img{
+    width: 50%;
+}
+
+figure{
+    width: 50%;
+    margin: 0 auto;
+}
+section{
+    border: 1px solid black;
+    border-radius: 1em;
+    text-align: center;
+    width: 40%;
+    margin: 0 auto 3%;
+}
+
+input{
+    border-radius: 1em;
+    width: 60%;
+}
+
+body{
+    background-color: white;
+    text-align: center;
+}
+
+button{
+    width: 30%;
+    border-radius: 1em;
+    background-color: green;
+    color: white;
+    margin: 5%;
+}
+
+#new-button{
+    background-color: blue;
+    color: white;
+    border-radius: 0.5em;
+    
+    width: 20px;
+}
+
+ul{
+    text-align: left;
+}
